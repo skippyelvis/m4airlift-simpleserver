@@ -1,0 +1,4 @@
+adafruit_wsgi
+adafruit_httpserver.mpy
+adafruit_requests.mpy
+adafruit_esp32spi
